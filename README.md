@@ -1,4 +1,3 @@
-
 # UtilizzoGitHub
 Repository creata per imparare le meccaniche base di GitHub
 
@@ -9,4 +8,7 @@ Valerio mangia le lumache mentre fa il bagno insieme a un ornitorinco
 Yo bithches
 
 #Valerio crede di aver capito come si usa GIT
-ciao persnoe
+Ciao persone
+
+#Prova varie su Arch nel tempo libero
+Francesco ama il suo nuovo ambiente di sviluppo
